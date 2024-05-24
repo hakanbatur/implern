@@ -1,7 +1,7 @@
 - [x] "npx create-next-app@latest {project-name}" to initialize nextjs
-- [ ] create github repo, and copy second section to terminal
-- [ ] change layout, change page.tsx, delete assets
-- [ ] create .env file, add .env to .gitignore
+- [x] create github repo, and copy second section to terminal
+- [x] change layout, create (main) folder, move page.tsx, change page.tsx, delete items in public folder
+- [x] create .env file, add .env to .gitignore
 - [ ] add .prettierrc
 - [ ] 'git add .' 'git commit -m "feat: added something"' 'git push' whenever new feature added
 
